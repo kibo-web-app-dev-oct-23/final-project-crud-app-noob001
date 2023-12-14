@@ -3,5 +3,6 @@ Flask-Session
 psycopg2-binary
 SQLAlchemy
 gunicorn==21.0.1
+Flask-SQLAlchemy==2.5.2
 
 
